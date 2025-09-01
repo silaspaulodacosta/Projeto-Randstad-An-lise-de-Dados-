@@ -50,5 +50,5 @@ As capturas de tela das etapas realizadas estão disponíveis na pasta [/images]
 ---
 
 ## 👨‍💻 Autor
-- [Seu Nome](https://github.com/SEU-USUARIO)
+- [Silas Paulo da Costa](https://github.com/SEU-USUARIO)
 - Bootcamp **Randstad - Análise de Dados** | DIO
